@@ -1,1 +1,1 @@
-# Sample CI/CD pipeline [![codecov](https://codecov.io/gh/miranska/cps847-w22-ga/branch/main/graph/badge.svg?token=14SO4K7F7Y)](https://codecov.io/gh/miranska/cps847-w22-ga)
+# Sample CI/CD pipeline [![codecov](https://codecov.io/gh/furion02/CPS847-0306/branch/main/graph/badge.svg?token=7JFLOOUT4Z)](https://codecov.io/gh/furion02/CPS847-0306)
